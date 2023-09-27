@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
-myself sneha
+title: Welcome to my blog myself sneha
+
 ---
 
